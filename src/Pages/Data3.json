@@ -1,0 +1,23 @@
+[
+    {
+
+        "Pic" : "../../Assets/img9.jpg",
+        "Title" : "The A-Team",
+        "Category" : "PG-13 • Action, Adventure •..."
+    },
+    {
+        "Pic" : "../../Assets/img10.jpg",
+        "Title" : "Phone Booth",
+        "Category" : "R • Thriller • Movie (2003)..."
+    },
+    {
+        "Pic" : "../../Assets/img11.jpg",
+        "Title" : "Notting Hill",
+        "Category" : "PG-13 • Comedy, Romance •..."
+    },
+    {
+        "Pic" : "../../Assets/img12.jpg",
+        "Title" : "Mortal Kombat",
+        "Category" : " R • Science Fiction, Action •..."
+    }
+]

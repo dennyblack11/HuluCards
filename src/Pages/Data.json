@@ -1,0 +1,23 @@
+[
+    {
+
+        "Pic" : "../../Assets/img1.jpg",
+        "Title" : "Deep Water",
+        "Category" : "R • Thriller, Latino • Movie..."
+    },
+    {
+        "Pic" : "../../Assets/img2.jpg",
+        "Title" : "No Exit",
+        "Category" : "R • Thriller, Horror • Movie..."
+    },
+    {
+        "Pic" : "../../Assets/img3.jpg",
+        "Title" : "Vacation Friends",
+        "Category" : "R • Comedy, Black Stories •..."
+    },
+    {
+        "Pic" : "../../Assets/img4.jpg",
+        "Title" : "Derek DelGaudio's In & Of Itsel",
+        "Category" : "TVMA • Drama, Biography •..."
+    }    
+]

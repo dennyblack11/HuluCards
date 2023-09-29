@@ -1,0 +1,23 @@
+[
+    {
+
+        "Pic" : "../../Assets/img5.jpg",
+        "Title" : "The Accountant",
+        "Category" : "R • Action, Thriller • Movie..."
+    },
+    {
+        "Pic" : "../../Assets/img6.jpg",
+        "Title" : "No One Will Save You",
+        "Category" : " PG-13 • Thriller, Horror • Movie..."
+    },
+    {
+        "Pic" : "../../Assets/img7.jpg",
+        "Title" : "Sanctuary",
+        "Category" : " R • Drama, Thriller • Movie..."
+    },
+    {
+        "Pic" : "../../Assets/img8.jpg",
+        "Title" : "Theater Camp",
+        "Category" : "Comedy • Movie (2023)"
+    }
+]
